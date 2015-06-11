@@ -44,9 +44,11 @@ http://type-scale.com/
 
 Simple grid system:
 
+- http://susy.oddbird.net/ is probably my favorite
+  - [Here's a good crash course on it](https://css-tricks.com/build-web-layouts-easily-susy/)
 - http://jeet.gs/
-- http://susy.oddbird.net/
 - http://neat.bourbon.io/
+- http://purecss.io/grids/
 
 Find related products:
 http://www.producthunt.com/
@@ -151,6 +153,7 @@ Fonts
 
 * http://fontsquirrel.com
 * http://google.com/fonts
+* http://100daysoffonts.com/
 
 Icon fonts:
 
@@ -223,6 +226,9 @@ https://www.khanacademy.org/computing/computer-science/algorithms
 
 ### Libraries
 
+A list of small, focused libraries:
+http://microjs.com
+
 jQuery
 http://jquery.com/
 
@@ -240,6 +246,9 @@ http://brm.io/matter-js
 
 Scrolling effects:
 https://github.com/gopatrik/space.js
+
+Extract colors from images:
+https://jariz.github.io/vibrant.js/
 
 Books
 http://eloquentjavascript.net/
@@ -267,6 +276,9 @@ http://www.rich-harris.co.uk/ramjet/
 
 Lightweight markdown editor:
 https://tibastral.github.io/markdownify/
+
+GBA emulator written in JavaScript:
+http://jsemu.github.io/gba/
 
 ### Native Mobile
 
@@ -312,6 +324,9 @@ Solve problems to keep your skills and brain sharp
 
 Google "ACM programming competition problems", and try solving some of the problems you find
 
+Find a free dataset and play with the data:
+
+- https://github.com/caesar0301/awesome-public-datasets
 
 ## Design
 
@@ -321,7 +336,9 @@ https://medium.com/@ingojoseph/free-design-resources-187bb30cc762
 
 UX:
 
-http://uxmyths.com/
+- http://uxmyths.com/
+- http://goodui.org/
+- http://ui-patterns.com/
 
 Google design guidelines:
 
